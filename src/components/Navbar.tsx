@@ -10,6 +10,7 @@ export default function Navbar() {
         <a href="#features">Features</a>
         <a href="#cta">Get Started</a>
         <Link to="/another">Another route</Link>
+        <Link to="/random">Random</Link>
       </div>
     </nav>
   )
